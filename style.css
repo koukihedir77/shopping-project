@@ -1,0 +1,16 @@
+#nav{
+  justify-content: space-between;
+  display: flex;
+
+}
+
+
+.cards{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between; 
+  padding-top: 267px;
+  width: 1380px;
+  height: 944px;
+  
+}
